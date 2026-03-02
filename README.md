@@ -27,7 +27,6 @@ Se identificaron aproximadamente **270 registros** con años de lanzamiento no e
 
 ## 📂 Contenido del Repositorio
 * `analysis.sql`: Contiene todas las consultas (queries) utilizadas para el informe.
-* `data/`: (Opcional) Referencia al origen de los datos.
 
 ---
 **Contacto:**
